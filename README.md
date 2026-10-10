@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Overview
-Statistical analysis pipeline for my MSc thesis on the **protective and therapeutic effects of N-acetylcysteine (NAC)** against vitamin D3/high-fat-diet-induced atherosclerosis in Sprague-Dawley rats.
+Statistical analysis pipeline for my MSc thesis, *Relationship between N-acetylcysteine and atherosclerosis in rats*, which examines the protective and therapeutic effects of N-acetylcysteine (NAC) against vitamin D3/high-fat-diet-induced atherosclerosis in Sprague-Dawley rats.
 
 > Manuscript in preparation.
 
